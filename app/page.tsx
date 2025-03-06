@@ -207,7 +207,7 @@ export default function WellnessPractice() {
                       </p>
                     </CardContent>
                     <CardFooter>
-                      <p className="text-sm font-medium">Initial Assessment - $15</p>
+                      <p className="text-sm font-medium">Initial Assessment - $</p>
                     </CardFooter>
                   </Card>
                   <Card>
@@ -237,7 +237,7 @@ export default function WellnessPractice() {
                       </p>
                     </CardContent>
                     <CardFooter>
-                      <p className="text-sm font-medium">Tratamiento - $15</p>
+                      <p className="text-sm font-medium">Tratamiento - $</p>
                     </CardFooter>
                   </Card>
                 </div>
