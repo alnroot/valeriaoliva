@@ -158,7 +158,7 @@ export default function WellnessPractice() {
                       </p>
                     </CardContent>
                     <CardFooter>
-                      <p className="text-sm font-medium">60 min - $15 | 90 min - $32</p>
+                      <p className="text-sm font-medium">60 min - $ | 90 min - $</p>
                     </CardFooter>
                   </Card>
                   <Card>
@@ -173,7 +173,7 @@ export default function WellnessPractice() {
                       </p>
                     </CardContent>
                     <CardFooter>
-                      <p className="text-sm font-medium">60 min - $25 | 90 min - $45</p>
+                      <p className="text-sm font-medium">60 min - $ | 90 min - $</p>
                     </CardFooter>
                   </Card>
                   <Card>
@@ -188,7 +188,7 @@ export default function WellnessPractice() {
                       </p>
                     </CardContent>
                     <CardFooter>
-                      <p className="text-sm font-medium">60 min - $35 | 90 min - $45</p>
+                      <p className="text-sm font-medium">60 min - $ | 90 min - $</p>
                     </CardFooter>
                   </Card>
                 </div>
